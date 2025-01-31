@@ -1,2 +1,2 @@
 # nbun
-dotfiles 
+dotfiles for neovim
